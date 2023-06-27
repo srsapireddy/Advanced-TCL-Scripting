@@ -1,4 +1,4 @@
-# Advanced-Design-Techniques-for-Design-in-Synthesis
+# Advanced-Scripting-Techniques-in-Design-and-Synthesis
 ## Contents</br>
 
 ## Day 1: Introduction to TCL and VSDSYNTH Toolbox Usage </br>
