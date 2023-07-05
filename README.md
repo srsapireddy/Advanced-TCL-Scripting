@@ -156,14 +156,14 @@ Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/881e68a8-bc78-4c04-a078-5b2117c181d8)</br>
 
 ## Day 3: Processing Clock and Input Constraints</br>
-
-
+</br>
 ## Section 5: Sub-Task Two - From CSV to format[1] and SDC - Processing clock constraints</br>
 
 ## Lecture 16: Algorithm to identify the column number for clock latency constraints</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8b63687b-2d47-489b-8753-3d685fac27db)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/de6898c8-beaa-412c-86fc-e492175df11d)</br>
 
+</br>
  
 ## Lecture 17: Start writing clock latency constraints in the SDC file</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c35e7ee0-11a1-4171-9106-9155b6514f7c)</br>
@@ -171,11 +171,15 @@ Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/549ff4ae-7888-43b5-9442-3ce2eccdb6b9)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/59f67d8e-5e5a-4c81-a4fc-51f1992deec2)</br>
 
+</br>
+
 ## Lecture 18: Complete clock latency constraints and clock slew constraints in the SDC file</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5e8a1a96-6b93-4bf3-a6bf-34925ede0acf)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ec8dee50-5cd5-4d2b-bbd1-757364d71565)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0d272922-8494-49ed-b90b-17b4469408e5)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/051435fe-67da-481c-8e52-256e670693a9)</br>
+
+</br>
 
 ## Lecture 19: Code to create clock constraints with clock period and duty cycle</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8dafdd05-ea81-4a7f-aa4e-022c2289ba08)</br>
@@ -185,6 +189,8 @@ Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0935e176-9919-4a91-8455-5ede9df7428d)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/309272fc-8c4b-4e7d-a952-acc7ba72506c)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a8af8298-b602-4433-9c88-99521da061e4)</br>
+
+</br>
 
 ## Lecture 20: DEMO for creating complete clock constraints</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7d2e8f32-5ff7-42f3-8583-cd27fa772ef7)</br>
