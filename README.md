@@ -4,13 +4,13 @@
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 
 <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/Images/1.png) <br/>
+![](https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/1.png) <br/>
 <br/>
 
 Checking the contents of the CSV file <br/>
 
 <br/>
-![](https://github.com/srsapireddy/srsapireddy/blob/master/Images/2.png) <br/>
+![](https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/2.png) <br/>
 <br/>
 
 
