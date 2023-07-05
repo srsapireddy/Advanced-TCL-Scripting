@@ -1,26 +1,36 @@
 # Advanced-Scripting-Techniques-in-Design-and-Synthesis
 
-Lecture 1: Introduction to TCL task
+Lecture 1: Introduction to TCL task </br>
+</br>
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d854fc7c-2961-4f39-bad0-c55c524c2a40)
 
 Checking the contents of the CSV file</br>
+</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d15afa1-8e5c-447e-bc84-6f618b78ffa4)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d63c62b-d393-4772-a1b7-9e1bada86e74)</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7c735272-5835-42b0-be4b-cffdd659191b)</br>
+
 
 Lecture 2: Introduction to sub-task
- 
- 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ff578704-857b-4b6e-8bb4-c9051f6e2988)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/702b5843-2fff-439f-93af-632cd6bc62c9)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8bb1a14c-763f-44e0-895a-a83feee8e2cf)</br>
 
  
-YOSYS tool will help to synthesize the design.
+</br>
  
- 
-Convert csv file into an SDC file. (Creating input and output ports)
- 
-OpenTimer is used to create the datasheet or performance chart.
- 
+YOSYS tool will help to synthesize the design.</br>
+</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b5f6337b-a6dc-4a9c-8f2b-d934c22583a4)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/021a98b3-4a88-48a2-8b18-dd070204b9a7)</br>
+
+ </br>
+Convert csv file into an SDC file. (Creating input and output ports)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7fc06c42-7661-46d9-b5ac-6fcb3a5156b4)</br>
+
+OpenTimer is used to create the datasheet or performance chart.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3a2f715c-6975-41ad-965d-cdf68084a842)</br>
+</br>
 
 
 Section 2: Sub-Task One: VSDSYNTH Toolbox usage scenarios
