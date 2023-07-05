@@ -2,15 +2,13 @@
 
 ## Lecture 1: Introduction to TCL task</br>
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
-<br/>
-<img width="600" alt="Output" src="https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/1.PNG?raw=true">
-<br/>
-
+</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2fd37059-5b6e-4ba2-b94d-454ad91add5a)
+</br>
 
 Checking the contents of the CSV file <br/>
 <br/>
-<img width="600" alt="Output" src="https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/2.PNG?raw=true">
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bb11283c-1750-4699-a978-b2d4a12af1a8)
 <br/>
 ## Day 3: Processing Clock and Input Constraints</br>
 
