@@ -8,7 +8,9 @@ The task is to take a User Interface to take an Excel file as an input and provi
 <br/>
 
 Checking the contents of the CSV file <br/>
-
+<br/>
+<img width="600" alt="Output" src="https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/2.png?raw=true">
+<br/>
 ## Day 3: Processing Clock and Input Constraints</br>
 
 Section 5: Sub-Task Two - From CSV to format[1] and SDC - Processing clock constraints</br>
