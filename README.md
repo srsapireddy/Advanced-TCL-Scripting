@@ -37,7 +37,7 @@ Creating “-help” for user guidence
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/00e5d2f5-7ab3-4b93-923e-762a734910f8)
 <br/>
 
-# Day 2
+# Day 2: Variable Creation and Processing Constraints from CSV
 
 ## Day 3: Processing Clock and Input Constraints</br>
 
