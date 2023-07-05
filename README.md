@@ -1,34 +1,17 @@
 # Advanced-Scripting-Techniques-in-Design-and-Synthesis
-## Contents</br>
 
-## Day 1: Introduction to TCL and VSDSYNTH Toolbox Usage </br>
+## Lecture 1: Introduction to TCL task</br>
+The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 
-Section 1: Introduction </br>
+<br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/1.png) <br/>
+<br/>
 
-Lecture 1: Introduction to TCL task</br>
-Lecture 2: Introduction to sub-task</br></br>
+Checking the contents of the CSV file <br/>
+<br/>
+![](https://github.com/srsapireddy/srsapireddy/blob/master/images/2.png) <br/>
+<br/>
 
-Section 2: Sub-Task One: VSDSYNTH Toolbox usage scenarios</br>
-
-Lecture 3: Scenario 1 - User doesn't provide an input CSV file</br>
-Lecture 4: Scenarios 2 & 3 - User providing incorrect CSV or typing "-help"</br></br>
-
-## Day 2: Variable Creation and Processing Constraints from CSV</br>
-
-Section 3: Sub-Task Two - From CSV to format[1] and SDC - Variable Creation</br>
-
-Lecture 5: Various tasks involved in format conversion</br>
-Lecture 7: Auto-Create variables using matrix and arrays</br>
-Lecture 8: Initialize variables for auto-creation variables task</br>
-Lecture 9: Auto creation of the first variable - DesignName</br>
-Lecture 10: Auto creation of variables complete</br>
-Lecture 11: Variable Creation DEMO using TCL</br>
-Section 4: Sub-Task Two - From CSV to format[1] and SDC - Processing constraints, CSV</br>
-
-Lecture 12: Checking the existence of files and folders mentioned in design_details.csv</br>
-Lecture 13: Convert constraints.csv file to a matrix object</br>
-Lecture 14: Compute row number using complex matrix processing</br>
-Lecture 15: DEMO for computing row numbers</br></br>
 
 ## Day 3: Processing Clock and Input Constraints</br>
 
