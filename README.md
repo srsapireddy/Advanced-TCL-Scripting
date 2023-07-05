@@ -41,115 +41,121 @@ The task is to take a User Interface to take an Excel file as an input and provi
 ## Lecture 3: Scenario 1 – The user doesn't provide an input CSV file 
 </br>
 
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/48ae8ba8-b681-49fd-a525-e2f5082b0ed7)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b89992a9-2ee3-4848-a353-94bd77a51817)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/88ce2f6b-112e-4e23-8a6a-b8e5a79a6a3d)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/48ae8ba8-b681-49fd-a525-e2f5082b0ed7)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b89992a9-2ee3-4848-a353-94bd77a51817)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/88ce2f6b-112e-4e23-8a6a-b8e5a79a6a3d)</br>
  
 ## CSV file not provided.
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/71ffaba3-4226-4f65-ba72-893b7b19fb92)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/71ffaba3-4226-4f65-ba72-893b7b19fb92)</br>
 
 ## Lecture 4: Scenarios 2 & 3 - User providing incorrect CSV or typing "-help." 
 </br>
 
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/239652c4-f678-4085-8e8f-1a651e826517)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0c53401c-3707-4702-84ea-498bfdd269a6)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/239652c4-f678-4085-8e8f-1a651e826517)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0c53401c-3707-4702-84ea-498bfdd269a6)</br>
 
 ## Checking incorrect CSV file
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b625c8b1-3e01-46cc-8d32-4bd87c9753c3)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5d469363-95a3-4141-97fd-745757183edc)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0181ed72-6d25-46bd-97c9-6ddcd9c4c064)
-
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b625c8b1-3e01-46cc-8d32-4bd87c9753c3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5d469363-95a3-4141-97fd-745757183edc)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0181ed72-6d25-46bd-97c9-6ddcd9c4c064)</br>
+</br>
 ## Creating “-help” for user guidance
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7e226a4d-a6bc-4496-a39e-f5d308a5ecb9)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7e226a4d-a6bc-4496-a39e-f5d308a5ecb9)</br>
 
-# Day 2: Variable Creation and Processing Constraints from CSV
-## Lecture 5: Various tasks involved in format conversion.
- 
- 
- 
- 
- 
- 
+# Day 2: Variable Creation and Processing Constraints from CSV</br>
+## Lecture 5: Various tasks involved in format conversion.</br>
+</br>
 
-Lecture 6: Auto-Create variables using matrix and arrays.
- 
-Set filename [lindex $argv 0]
- 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ab0f80f5-48a5-4672-86b1-f9e7bd4c52f7)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7be6d2d6-b2d3-48f4-a587-3bce59ed6335)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3c794ea7-fa11-49b4-a0a1-9f5c6b0ff999)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fd9a708e-39f8-4da0-b855-76a171e65078)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d56ab1c1-f884-43d7-929a-8100e22f28b7)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6a1cbad2-07e9-4dc4-b7c8-fcf13c8120dc)</br>
+</br>
 
+## Lecture 6: Auto-Create variables using matrix and arrays.</br>
+</br>
 
-Lecture 7: Initialize variables for auto-creation variables task.
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2da37485-8819-491c-b894-1ffbf4f463bc)</br>
 
-
-
-
-
-
+Set filename [lindex $argv 0]</br>
+</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/797f973b-a570-4ba0-a6eb-cf27ddc3f620)</br>
 
 
+## Lecture 7: Initialize variables for auto-creation variables task.</br>
+</br>
 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d9cfc731-5019-4235-acb9-b1e6487d8d81)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4723d7d3-229d-4846-bd38-1d3cfd76f3bf)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b3619ad5-04aa-49ad-933a-84f12f4ecb9f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/90bc752f-094b-4ec1-b721-3cb85ef30212)</br>
 
- 
+MAP FILE TO MATRIX</br>
+</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9f12b643-186b-49d7-818a-dec86e6fe251)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/661e2f0c-d127-4112-ab39-a37c3fe1b417)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/82de4e3e-a97b-4db6-8fa6-6436b44e8927)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1c6b87b5-1bc3-4bdf-8499-3837cd99fb2c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5c5b3fbe-2696-4a57-a6e2-64d3c8484e70)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f241b6b8-4ac2-4180-afe0-03f4d494bcc3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b8632977-68b6-4950-911a-356cf41e11bb)</br>
 
- 
- 
-MAP FILE TO MATRIX
- 
- 
- 
- 
- 
- 
+## Lecture 8: Auto creation of the first variable – DesignName</br>
+</br>
 
- 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b9cf94cb-4e20-41ab-a6da-572cbdba053f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fcef21ed-71e2-44d9-8c26-112c47ac0119)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c8a3f060-21de-4393-82ff-99016a12d48c)</br>
+$DesignName = openMSP430</br>
+</br>
 
-Lecture 8: Auto creation of the first variable – DesignName
- 
- 
- 
-$DesignName = openMSP430
+## Lecture 9: Auto creation of variables complete.</br>
+</br>
 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/15cec14a-2952-4c74-a968-89b3e09eb959)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6faeb26e-777f-4716-9371-ba6fb45b3506)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9aeee527-b178-4864-b203-9db8896bc11e)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/873a6818-2917-46d9-b56a-52cd2aa81d66)</br>
+ 
+Mapping the matrix to the matrix. Then mapping matrix variables to a CSV file.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a0e7f868-ad1e-4db7-b4be-1221bd5a1720)</br>
 
+## Lecture 10: Variable Creation DEMO using TCL.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/964de725-3e97-4014-a19a-85ef6eef455c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e0fdc80e-2b50-4cd1-973a-4d6c02af502d)</br>
+ 
+Checking the auto-creation of the variables</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c6170bd1-eb83-4684-bc41-9b7cd80f083b)</br>
 
+# Section 4: Sub-Task Two - From CSV to format[1] and SDC - Processing constraints, CSV</br>
+## Lecture 12: Checking the existence of files and folders mentioned in design_details.csv</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0d07da72-16f7-4f35-a1a3-bf7db7bf75b9)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/cc94e2d3-d3df-44eb-9fc8-d144eb55824c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/98bb7d89-3d5b-4530-9d92-46eb4fb0c049)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2d8d07bd-d90a-4099-ba57-b3a4ed2f355f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2f44c28d-ff05-4246-b14c-4ff161dec1d3)</br> 
 
+## Lecture 13: Convert the constraints.csv file to a matrix object.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0f7b3d9c-89f7-4652-85a9-11936422ed22)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6e7201ca-0b10-4819-93ef-5d749d0d9593)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a8b1b702-ada1-4920-8d9a-8f49e2f67910)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3810b17e-9dbd-4394-825f-e79e59f36897)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6ec54759-7d0a-4139-9f04-a6cc237b8d71)</br>
 
+## Lecture 14: Compute row numbers using complex matrix processing.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/297d903e-bae5-401e-ae08-c39035de85dc)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2fb37b07-b396-4cfe-88f9-16b7e25a5f78)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/07778601-7d81-4b2b-93c8-bfe40b0f312a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8a01936b-48fb-4e44-bb74-c100a3969f5f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f42dc3ce-cd0e-4664-91fb-b23411a919ca)</br>
 
-Lecture 9: Auto creation of variables complete.
- 
- 
- 
- 
-Mapping the matrix to the matrix. Then mapping matrix variables to a CSV file.
- 
+## Lecture 15: DEMO for computing row numbers</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/036a2a41-3d91-47ab-b6df-c9a38f7b6a66)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b55077a9-17b9-40a1-a54d-b5fe253df9c6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/881e68a8-bc78-4c04-a078-5b2117c181d8)</br>
 
-
-Lecture 10: Variable Creation DEMO using TCL.
- 
- 
-Checking the auto-creation of the variables
- 
-
-Section 4: Sub-Task Two - From CSV to format[1] and SDC - Processing constraints, CSV
-Lecture 12: Checking the existence of files and folders mentioned in design_details.csv
- 
- 
- 
- 
- 
-
-Lecture 13: Convert the constraints.csv file to a matrix object.
- 
- 
- 
- 
- 
-Lecture 14: Compute row numbers using complex matrix processing.
- 
- 
- 
- 
- 
-Lecture 15: DEMO for computing row numbers
- 
  
  
 
@@ -157,7 +163,7 @@ Lecture 15: DEMO for computing row numbers
 ## Day 3: Processing Clock and Input Constraints</br>
 
 
-Section 5: Sub-Task Two - From CSV to format[1] and SDC - Processing clock constraints</br>
+## Section 5: Sub-Task Two - From CSV to format[1] and SDC - Processing clock constraints</br>
 
 Lecture 16: Algorithm to identify the column number for clock latency constraints</br>
 Lecture 17: Start writing clock latency constraints in the SDC file</br>
