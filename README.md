@@ -203,27 +203,15 @@ Checking the auto-creation of the variables</br>
  
  
  
-Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints
-Lecture 21: Introduction to differentiating between bits and a bus.
-Lecture 22: Algorithm to categorize input ports as bits and bussed.
-Lecture 23: File Access and pattern creation steps
-Lecture 24: Regular expression and regular substitute to get fixed space strings.
-Lecture 25: Demo for grepping input ports from all Verilog and reformatting for fixed space
-Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication.
-Lecture 27: Evaluate the string length and Demo of bits/bussed differentiation script.
-Lecture 28: Demo for input constraints generation and bits/bussed differentiation
-
-
-Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints</br>
-
-Lecture 21: Introduction to the task of differentiating between bits and a bus</br>
-Lecture 22: Algorithm to categorize input ports as bits and bussed</br>
-Lecture 23: File access and pattern creation steps</br>
-Lecture 24: Regular expression and regular substitute to get fixed space strings</br>
-Lecture 25: Demo for grepping input ports from all verilogs and reformatting for fixed space</br>
-Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication</br>
-Lecture 27: Evaluate the length of the string and Demo of bits/bussed differentiation script</br>
-Lecture 28: Demo for input constraints generation and bits/bussed differentiation</br></br>
+# Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints
+## Lecture 21: Introduction to differentiating between bits and a bus.
+## Lecture 22: Algorithm to categorize input ports as bits and bussed.
+## Lecture 23: File Access and pattern creation steps
+## Lecture 24: Regular expression and regular substitute to get fixed space strings.
+## Lecture 25: Demo for grepping input ports from all Verilog and reformatting for fixed space
+## Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication.
+## Lecture 27: Evaluate the string length and Demo of bits/bussed differentiation script.
+## Lecture 28: Demo for input constraints generation and bits/bussed differentiation
 
 ## Day 4: Complete Scripting and Yosys Synthesis Introduction</br>
 
