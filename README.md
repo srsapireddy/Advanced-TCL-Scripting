@@ -34,23 +34,33 @@ OpenTimer is used to create the datasheet or performance chart.</br>
 </br>
 
 
-Section 2: Sub-Task One: VSDSYNTH Toolbox usage scenarios
-Lecture 3: Scenario 1 – The user doesn't provide an input CSV file
- 
- 
+Section 2: Sub-Task One: VSDSYNTH Toolbox usage scenarios </br>
+Lecture 3: Scenario 1 – The user doesn't provide an input CSV file </br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/48ae8ba8-b681-49fd-a525-e2f5082b0ed7)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b89992a9-2ee3-4848-a353-94bd77a51817)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/88ce2f6b-112e-4e23-8a6a-b8e5a79a6a3d)
+
  
 CSV file not provided.
- 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/71ffaba3-4226-4f65-ba72-893b7b19fb92)
+
 
 Lecture 4: Scenarios 2 & 3 - User providing incorrect CSV or typing "-help."
- 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/239652c4-f678-4085-8e8f-1a651e826517)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0c53401c-3707-4702-84ea-498bfdd269a6)
+
  
 Checking incorrect CSV file
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b625c8b1-3e01-46cc-8d32-4bd87c9753c3)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5d469363-95a3-4141-97fd-745757183edc)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0181ed72-6d25-46bd-97c9-6ddcd9c4c064)
+
  
  
- 
-Creating “-help” for user guidence
- 
+Creating “-help” for user guidance
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7e226a4d-a6bc-4496-a39e-f5d308a5ecb9)
+
+
 Day 2: Variable Creation and Processing Constraints from CSV
 Lecture 5: Various tasks involved in format conversion.
  
