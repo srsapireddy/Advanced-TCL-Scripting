@@ -155,20 +155,58 @@ Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b55077a9-17b9-40a1-a54d-b5fe253df9c6)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/881e68a8-bc78-4c04-a078-5b2117c181d8)</br>
 
- 
- 
-
-
 ## Day 3: Processing Clock and Input Constraints</br>
 
 
 ## Section 5: Sub-Task Two - From CSV to format[1] and SDC - Processing clock constraints</br>
 
-Lecture 16: Algorithm to identify the column number for clock latency constraints</br>
-Lecture 17: Start writing clock latency constraints in the SDC file</br>
-Lecture 18: Complete clock latency constraints and clock slew constraints in the SDC file</br>
-Lecture 19: Code to create clock constraints with clock period and duty cycle</br>
-Lecture 20: DEMO for creating complete clock constraints</br>
+## Lecture 16: Algorithm to identify the column number for clock latency constraints</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8b63687b-2d47-489b-8753-3d685fac27db)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/de6898c8-beaa-412c-86fc-e492175df11d)</br>
+
+ 
+## Lecture 17: Start writing clock latency constraints in the SDC file</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c35e7ee0-11a1-4171-9106-9155b6514f7c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0c493ed4-5176-4e59-8479-5222fc6040d3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/549ff4ae-7888-43b5-9442-3ce2eccdb6b9)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/59f67d8e-5e5a-4c81-a4fc-51f1992deec2)</br>
+
+## Lecture 18: Complete clock latency constraints and clock slew constraints in the SDC file</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5e8a1a96-6b93-4bf3-a6bf-34925ede0acf)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ec8dee50-5cd5-4d2b-bbd1-757364d71565)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0d272922-8494-49ed-b90b-17b4469408e5)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/051435fe-67da-481c-8e52-256e670693a9)</br>
+
+## Lecture 19: Code to create clock constraints with clock period and duty cycle</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8dafdd05-ea81-4a7f-aa4e-022c2289ba08)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1c2330b9-68bb-4746-a72c-fed3a699a993)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/dbc731a9-86c0-4a6e-927f-dbb2e7053862)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/455b7517-cb46-4eeb-87d1-b045d7368203)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0935e176-9919-4a91-8455-5ede9df7428d)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/309272fc-8c4b-4e7d-a952-acc7ba72506c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a8af8298-b602-4433-9c88-99521da061e4)</br>
+
+## Lecture 20: DEMO for creating complete clock constraints</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7d2e8f32-5ff7-42f3-8583-cd27fa772ef7)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4950119d-9b64-4347-8c41-2f09b960062c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/65d3191e-759e-4641-a9f6-c1a4bbf32d3f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/54844d7c-bce4-45c9-be5f-0bb8f0f227a7)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/45342607-3140-428b-80c7-7ebf2ababcce)</br>
+
+ 
+ 
+ 
+ 
+Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints
+Lecture 21: Introduction to differentiating between bits and a bus.
+Lecture 22: Algorithm to categorize input ports as bits and bussed.
+Lecture 23: File Access and pattern creation steps
+Lecture 24: Regular expression and regular substitute to get fixed space strings.
+Lecture 25: Demo for grepping input ports from all Verilog and reformatting for fixed space
+Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication.
+Lecture 27: Evaluate the string length and Demo of bits/bussed differentiation script.
+Lecture 28: Demo for input constraints generation and bits/bussed differentiation
+
 
 Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints</br>
 
