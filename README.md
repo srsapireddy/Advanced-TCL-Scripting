@@ -4,7 +4,8 @@
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 
 <br/>
-<img width="600" alt="Output" src="https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/1.png?raw=true">
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0f410095-e517-4c34-8479-7462f9e093e3)
+
 <br/>
 
 Checking the contents of the CSV file <br/>
@@ -12,6 +13,7 @@ Checking the contents of the CSV file <br/>
 <img width="600" alt="Output" src="https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/2.PNG?raw=true">
 <br/>
 ## Day 3: Processing Clock and Input Constraints</br>
+![Uploading image.png…]()
 
 Section 5: Sub-Task Two - From CSV to format[1] and SDC - Processing clock constraints</br>
 
