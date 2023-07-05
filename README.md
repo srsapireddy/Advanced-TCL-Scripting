@@ -141,7 +141,6 @@ Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0f7b3d9c-89f7-4652-85a9-11936422ed22)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6e7201ca-0b10-4819-93ef-5d749d0d9593)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a8b1b702-ada1-4920-8d9a-8f49e2f67910)</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3810b17e-9dbd-4394-825f-e79e59f36897)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6ec54759-7d0a-4139-9f04-a6cc237b8d71)</br>
 
 ## Lecture 14: Compute row numbers using complex matrix processing.</br>
