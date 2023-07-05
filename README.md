@@ -4,7 +4,8 @@
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 
 <br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/1.png) <br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/1.png?raw=true) <br/>
+![core](https://github.com/srsapireddy/Images/blob/main/2.PNG?raw=true) </br>
 <br/>
 
 Checking the contents of the CSV file <br/>
