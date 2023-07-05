@@ -4,7 +4,7 @@
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 
 <br/>
-![macrovsip](https://github.com/srsapireddy/Images/blob/main/3.PNG?raw=true) </br>
+![image](Images/1.png) </br>
 <br/>
 
 Checking the contents of the CSV file <br/>
