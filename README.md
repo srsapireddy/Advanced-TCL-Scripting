@@ -11,12 +11,10 @@ Checking the contents of the CSV file <br/>
 <br/>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bb11283c-1750-4699-a978-b2d4a12af1a8)
 <br/>
-
 <br/>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c071da80-f665-4f64-a578-c0d72d7589e3)
 <br/>
 
-<br/>
 CSV file not provided.
 <br/>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1fc5f470-f3d9-43b1-a9bb-7e320c2a79a3)
