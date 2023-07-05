@@ -1,43 +1,138 @@
 # Advanced-Scripting-Techniques-in-Design-and-Synthesis
 
-# Day 1
-## Lecture 1: Introduction to TCL task</br>
-The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
-</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2fd37059-5b6e-4ba2-b94d-454ad91add5a)
-</br>
+Lecture 1: Introduction to TCL task
+The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d854fc7c-2961-4f39-bad0-c55c524c2a40)
 
-Checking the contents of the CSV file <br/>
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bb11283c-1750-4699-a978-b2d4a12af1a8)
-<br/>
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c071da80-f665-4f64-a578-c0d72d7589e3)
-<br/>
+Checking the contents of the CSV file
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d15afa1-8e5c-447e-bc84-6f618b78ffa4)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d63c62b-d393-4772-a1b7-9e1bada86e74)
 
+ 
+ 
+
+Lecture 2: Introduction to sub-task
+ 
+ 
+
+ 
+YOSYS tool will help to synthesize the design.
+ 
+ 
+Convert csv file into an SDC file. (Creating input and output ports)
+ 
+OpenTimer is used to create the datasheet or performance chart.
+ 
+
+
+Section 2: Sub-Task One: VSDSYNTH Toolbox usage scenarios
+Lecture 3: Scenario 1 – The user doesn't provide an input CSV file
+ 
+ 
+ 
 CSV file not provided.
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1fc5f470-f3d9-43b1-a9bb-7e320c2a79a3)
-<br/>
+ 
 
-User providing incorrect CSV or typing "-help."
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6590de1b-8e57-42d7-8dad-18daa05b7879)
-<br/>
-
+Lecture 4: Scenarios 2 & 3 - User providing incorrect CSV or typing "-help."
+ 
+ 
 Checking incorrect CSV file
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e8177704-c142-4d0a-bfdc-7c336ae5c8c5)
-<br/>
-
+ 
+ 
+ 
 Creating “-help” for user guidence
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a24e8bd5-e3c9-4b83-b36c-7cb393acf107)
-<br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/00e5d2f5-7ab3-4b93-923e-762a734910f8)
-<br/>
+ 
+Day 2: Variable Creation and Processing Constraints from CSV
+Lecture 5: Various tasks involved in format conversion.
+ 
+ 
+ 
+ 
+ 
+ 
 
-# Day 2: Variable Creation and Processing Constraints from CSV
+Lecture 6: Auto-Create variables using matrix and arrays.
+ 
+Set filename [lindex $argv 0]
+ 
+
+
+Lecture 7: Initialize variables for auto-creation variables task.
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+MAP FILE TO MATRIX
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Lecture 8: Auto creation of the first variable – DesignName
+ 
+ 
+ 
+$DesignName = openMSP430
+
+
+
+
+
+
+Lecture 9: Auto creation of variables complete.
+ 
+ 
+ 
+ 
+Mapping the matrix to the matrix. Then mapping matrix variables to a CSV file.
+ 
+
+
+Lecture 10: Variable Creation DEMO using TCL.
+ 
+ 
+Checking the auto-creation of the variables
+ 
+
+Section 4: Sub-Task Two - From CSV to format[1] and SDC - Processing constraints, CSV
+Lecture 12: Checking the existence of files and folders mentioned in design_details.csv
+ 
+ 
+ 
+ 
+ 
+
+Lecture 13: Convert the constraints.csv file to a matrix object.
+ 
+ 
+ 
+ 
+ 
+Lecture 14: Compute row numbers using complex matrix processing.
+ 
+ 
+ 
+ 
+ 
+Lecture 15: DEMO for computing row numbers
+ 
+ 
+ 
+
 
 ## Day 3: Processing Clock and Input Constraints</br>
 
