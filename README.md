@@ -12,6 +12,32 @@ Checking the contents of the CSV file <br/>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bb11283c-1750-4699-a978-b2d4a12af1a8)
 <br/>
 
+<br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c071da80-f665-4f64-a578-c0d72d7589e3)
+<br/>
+
+CSV file not provided.
+<br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1fc5f470-f3d9-43b1-a9bb-7e320c2a79a3)
+<br/>
+
+User providing incorrect CSV or typing "-help."
+<br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6590de1b-8e57-42d7-8dad-18daa05b7879)
+<br/>
+
+Checking incorrect CSV file
+<br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e8177704-c142-4d0a-bfdc-7c336ae5c8c5)
+<br/>
+
+Creating “-help” for user guidence
+<br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a24e8bd5-e3c9-4b83-b36c-7cb393acf107)
+<br/>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/00e5d2f5-7ab3-4b93-923e-762a734910f8)
+<br/>
+
 # Day 2
 
 ## Day 3: Processing Clock and Input Constraints</br>
