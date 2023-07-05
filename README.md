@@ -1,5 +1,6 @@
 # Advanced-Scripting-Techniques-in-Design-and-Synthesis
 
+# Day 1
 ## Lecture 1: Introduction to TCL task</br>
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 </br>
@@ -10,6 +11,9 @@ Checking the contents of the CSV file <br/>
 <br/>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bb11283c-1750-4699-a978-b2d4a12af1a8)
 <br/>
+
+# Day 2
+
 ## Day 3: Processing Clock and Input Constraints</br>
 
 
