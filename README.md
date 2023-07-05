@@ -24,8 +24,9 @@ YOSYS tool will help to synthesize the design.</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b5f6337b-a6dc-4a9c-8f2b-d934c22583a4)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/021a98b3-4a88-48a2-8b18-dd070204b9a7)</br>
 
- </br>
+
 Convert csv file into an SDC file. (Creating input and output ports)</br>
+</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7fc06c42-7661-46d9-b5ac-6fcb3a5156b4)</br>
 
 OpenTimer is used to create the datasheet or performance chart.</br>
