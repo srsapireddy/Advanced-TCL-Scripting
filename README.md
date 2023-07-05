@@ -1,15 +1,13 @@
 # Advanced-Scripting-Techniques-in-Design-and-Synthesis
 
 Lecture 1: Introduction to TCL task
-The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. 
+The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d854fc7c-2961-4f39-bad0-c55c524c2a40)
 
-Checking the contents of the CSV file
+Checking the contents of the CSV file</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d15afa1-8e5c-447e-bc84-6f618b78ffa4)</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d63c62b-d393-4772-a1b7-9e1bada86e74)
-
- 
- 
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d63c62b-d393-4772-a1b7-9e1bada86e74)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7c735272-5835-42b0-be4b-cffdd659191b)</br>
 
 Lecture 2: Introduction to sub-task
  
