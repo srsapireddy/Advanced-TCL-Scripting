@@ -2,11 +2,10 @@
 
 ## Lecture 1: Introduction to TCL task</br>
 The task is to take a User Interface to take an Excel file as an input and provide the output as a datasheet. </br>
-
 <br/>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0f410095-e517-4c34-8479-7462f9e093e3)
-
+<img width="600" alt="Output" src="https://github.com/srsapireddy/Advanced-TCL-Scripting/blob/main/Images/1.PNG?raw=true">
 <br/>
+
 
 Checking the contents of the CSV file <br/>
 <br/>
