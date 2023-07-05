@@ -10,7 +10,8 @@ The task is to take a User Interface to take an Excel file as an input and provi
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d15afa1-8e5c-447e-bc84-6f618b78ffa4)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d63c62b-d393-4772-a1b7-9e1bada86e74)</br>
 
-# Lecture 2: Introduction to sub-task
+# Lecture 2: Introduction to sub-task</br>
+</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ff578704-857b-4b6e-8bb4-c9051f6e2988)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/702b5843-2fff-439f-93af-632cd6bc62c9)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8bb1a14c-763f-44e0-895a-a83feee8e2cf)</br>
@@ -33,6 +34,7 @@ The task is to take a User Interface to take an Excel file as an input and provi
 
 # Section 2: Sub-Task One: VSDSYNTH Toolbox usage scenarios </br>
 ## Lecture 3: Scenario 1 – The user doesn't provide an input CSV file </br>
+</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/48ae8ba8-b681-49fd-a525-e2f5082b0ed7)
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b89992a9-2ee3-4848-a353-94bd77a51817)
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/88ce2f6b-112e-4e23-8a6a-b8e5a79a6a3d)
@@ -40,7 +42,8 @@ The task is to take a User Interface to take an Excel file as an input and provi
 ## CSV file not provided.
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/71ffaba3-4226-4f65-ba72-893b7b19fb92)
 
-## Lecture 4: Scenarios 2 & 3 - User providing incorrect CSV or typing "-help."
+## Lecture 4: Scenarios 2 & 3 - User providing incorrect CSV or typing "-help." </br>
+</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/239652c4-f678-4085-8e8f-1a651e826517)
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0c53401c-3707-4702-84ea-498bfdd269a6)
 
