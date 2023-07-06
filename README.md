@@ -303,8 +303,15 @@ Section 7: Full script for download and Conclusion</br>
 
 </br>
 
-Lecture 29: Constraints generation logic for the output port and Conclusion!!</br>
-Section 8: Introduction to Yosys synthesis tool usage</br>
+## Lecture 29: Constraints generation logic for the output port and Conclusion!!</br>
+### Section 8: Introduction to Yosys synthesis tool usage</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/78467c81-0b4a-4e02-bb75-8602893ddee8)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6b9dbe93-14a5-4a90-9ba8-9a7f0db6b3ca)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5b07d61c-550f-4914-a1e4-d29708ea38a1)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c3349673-60c2-4059-bb33-143613972dba)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a7b015b4-51a5-425a-9f7e-09eb9cd6a09f)
+
+</br>
 
 Lecture 2: Example of a memory module RTL description</br>
 Lecture 3: Memory functionality and Synthesis using Yosys</br>
