@@ -200,17 +200,77 @@ Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/45342607-3140-428b-80c7-7ebf2ababcce)</br>
 
  
+</br>
  
  
- 
-# Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints
-## Lecture 21: Introduction to differentiating between bits and a bus.
-## Lecture 22: Algorithm to categorize input ports as bits and bussed.
-## Lecture 23: File Access and pattern creation steps
-## Lecture 24: Regular expression and regular substitute to get fixed space strings.
-## Lecture 25: Demo for grepping input ports from all Verilog and reformatting for fixed space
-## Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication.
-## Lecture 27: Evaluate the string length and Demo of bits/bussed differentiation script.
+# Section 6: Sub-Task Two - From CSV to format[1] and SDC - Processing input constraints</br>
+## Lecture 21: Introduction to differentiating between bits and a bus.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e0ec720d-5227-46de-b1e4-3c12321498f3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6ebaf9e7-3ba6-4dcd-b98d-f10165eaca92)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/435b37c5-4f7b-4a47-805f-e40634632031)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4394167f-ef71-4eda-961e-128afdd1defe)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a470c7d0-1432-42c9-9135-54da4e66f0e1)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5910a8da-5150-4de0-90fd-f2d598313af1)</br>
+
+</br>
+
+## Lecture 22: Algorithm to categorize input ports as bits and bussed.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/34654aae-64cc-4de5-b919-a342341f6fb1)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2a2076d8-15e5-4df6-bee1-d9ef062ac06d)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3d02b99e-baa8-4640-8bcd-0ce259580de3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ba816177-98b7-4f88-8c40-1b763e2911d7)</br>
+
+</br>
+
+## Lecture 23: File Access and pattern creation steps</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0521a6fe-1bd6-4936-90c4-b5abec0c9f87)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3817740d-cb07-4e1c-8240-a9eeedb6a71a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7cb311aa-bbab-40ce-8a49-9f15cba42385)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a57b4432-abaa-4992-91b1-d3aa9fe8a0be)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/32ecc217-f366-429b-9a7a-49e3b81b9e55)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bee21c90-3d0f-4662-85b4-a2e2e9f3ed33)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2299d19c-a615-4ed2-935c-5418c9a0710b)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/671efc3d-fc63-4734-9f0a-3420642cff68)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/42a3b637-9310-425f-80f7-d108a6c09ef2)</br>
+
+</br>
+
+## Lecture 24: Regular expression and regular substitute to get fixed space strings.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7849e562-f1a2-4e01-8c7c-e5b394f91983)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9254c8b1-d4b6-4cf7-8051-da16a51254d3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9a1d0398-5b35-4a0e-8d67-b5732c4e7ca9)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/73ded9c1-fa59-48cf-8d3e-2a5b8fdc5b80)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d33f6c82-9352-47b8-894a-022c96292363)</br>
+
+</br>
+
+## Lecture 25: Demo for grepping input ports from all Verilog and reformatting for fixed space</br>
+
+## Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2c615cdc-3c7a-4f22-a85c-da237f893254)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/cb30b783-fe9d-4a1a-b159-1a17faef089b)</br>
+While $i = 5.</br>
+</br>
+
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1d7ac3bc-7477-4026-a98b-adafb2fc40d0)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/61ec2b2c-687e-4be4-8337-dd4d83b90598)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4b17f679-5402-48d9-89d9-b489f8dfb6a3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b0a5f781-699b-4e03-86d9-35c0e775fedc)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bb7fe9c7-da64-422b-8283-c2acaaca35b2)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/790f6f91-5d06-4f1e-b629-48059eaa2e30)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f8afd5fa-a45b-4f0d-a41f-22e090cc1b81)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/629bc97f-c752-4af2-ad1b-4769306dc43c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8ca7f2c5-319c-4120-b4ef-f19ef911783b)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3379c3d6-16a7-4d61-8e4d-45f5ee861da1)</br>
+
+</br>
+
+## Lecture 27: Evaluate the string length and Demo of bits/bussed differentiation script.</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/85ff65ba-26f2-42f9-9476-8d0261fbd627)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fff748c5-22e1-4768-81c9-0d8d6e4ca5be)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/25119c7a-665c-4812-abf7-ac5c73fbef7c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/90ad8ac9-1bea-4c85-a0f6-2e084dfae60a)</br>
+
 ## Lecture 28: Demo for input constraints generation and bits/bussed differentiation
 
 ## Day 4: Complete Scripting and Yosys Synthesis Introduction</br>
