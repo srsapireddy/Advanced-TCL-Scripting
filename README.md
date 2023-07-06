@@ -348,29 +348,40 @@ Section 7: Full script for download and Conclusion</br>
 
 
 ### Lecture 6: Memory Read operation and TCL scripting agenda</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/71e9cff2-864f-4cd3-a874-eb253f1e80d3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9bcfb903-4124-4c63-a0ef-46e35ea06c7b)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/dab915d4-060e-468f-b58b-f1a00d402a10)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b8f2ffd7-ca57-4325-9ac2-da8175e21f9e)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f5e52e2b-bf6b-4c00-8cc5-e8178e6c2181)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f900878f-457f-4eeb-a376-d768d77d4fb5)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7fd146b7-7a6f-4734-b4fa-85e92b8c2576)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b43dbfdc-cd01-4dcd-a7a3-d517c58f1dc4)</br>
 
+</br>
 
-Section 9: Hierarchy check and error handling script creation for Yosys</br>
-
-Lecture 7: Script to do a hierarchy check</br>
-Lecture 8: Demo for hierarchy check script generation</br>
-Lecture 9: Demo for error handling concept in hierarchy check</br>
-Lecture 10: Error handling script for hierarchy check</br>
-Lecture 11: Demo for error handling script</br></br>
+## Section 9: Hierarchy check and error handling script creation for Yosys</br>
+</br>
+### Lecture 7: Script to do a hierarchy check</br>
+### Lecture 8: Demo for hierarchy check script generation</br>
+### Lecture 9: Demo for error handling concept in hierarchy check</br>
+### Lecture 10: Error handling script for hierarchy check</br>
+### Lecture 11: Demo for error handling script</br></br>
 
 ## Day 5: Advanced Scripting Techniques and Quality of Results Generation</br>
 
-Section 10: Synthesis main file scripting and output file editing</br>
+## Section 10: Synthesis main file scripting and output file editing</br>
 
-Lecture 12: Synthesis script creation and demo</br>
-Lecture 13: Need and script to edit Yosys output netlist</br>
-Lecture 14: Demo to edit output netlist and Introduction to 'procs'</br>
-Section 11: World of 'Procs'</br>
+### Lecture 12: Synthesis script creation and demo</br>
+### Lecture 13: Need and script to edit Yosys output netlist</br>
+### Lecture 14: Demo to edit output netlist and Introduction to 'procs'</br>
+
+## Section 11: World of 'Procs'</br>
 
 Lecture 15: Redirect stdout proc and demo of TCL array command</br>
 Lecture 16: 'set_multi_cpu_usage' proc</br>
 Lecture 17: Demo for 'set_multi_cpu_usage' proc</br>
 Lecture 18: read_lib and read_verilog proc demo</br>
+
 Section 12: read_sdc proc - interpret clock generation constraints</br>
 
 Lecture 19: Read SDC file and replace square brackets by 'null'</br>
