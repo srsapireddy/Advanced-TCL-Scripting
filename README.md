@@ -360,9 +360,7 @@ Section 7: Full script for download and Conclusion</br>
 </br>
 
 ## Section 9: Hierarchy check and error handling script creation for Yosys</br>
-</br>
 ### Lecture 7: Script to do a hierarchy check</br>
-</br>
 
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9f519a95-72fa-4d6b-ab0e-eb32d6713549)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f7dc7904-895a-4993-bd6a-9c7aadd3a087)</br>
