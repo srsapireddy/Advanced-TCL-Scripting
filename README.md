@@ -326,6 +326,13 @@ Lecture 2: Example of a memory module RTL description</br>
 </br>
 
 Lecture 3: Memory functionality and Synthesis using Yosys</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2d3090df-6fea-4e5e-a844-f4b299ab8a79)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/932bc847-49e2-4f47-b8d4-817592606f69)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9d9008c8-5885-4235-b331-f88c64592198)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ffe9e780-9dda-4554-a421-f00c9f4fbff4)
+
+</br>
+
 Lecture 4: Components and Gate level netlist description of Synthesized memory</br>
 Lecture 5: Memory Write operation discussed in detail</br>
 Lecture 6: Memory Read operation and TCL scripting agenda</br>
