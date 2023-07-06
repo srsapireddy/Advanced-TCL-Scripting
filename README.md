@@ -362,6 +362,22 @@ Section 7: Full script for download and Conclusion</br>
 ## Section 9: Hierarchy check and error handling script creation for Yosys</br>
 </br>
 ### Lecture 7: Script to do a hierarchy check</br>
+</br>
+
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9f519a95-72fa-4d6b-ab0e-eb32d6713549)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f7dc7904-895a-4993-bd6a-9c7aadd3a087)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e131adb9-e835-49f5-980a-597ddb9d8eef)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3be3cab1-920e-4044-9966-e2b8dcca0f62)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c0d3c8ca-8234-4431-bd4d-f316973f4e64)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9c8f8acc-d555-461a-84a4-aa6601d35cdc)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8575c53a-8965-47d1-97ac-88dfc4006a1e)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5b14d94c-3cba-4cbb-9d3d-e669e387b0db)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/80dc323f-6237-46a6-a321-8ac57b18923f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6febd721-465c-483c-bf02-10bfda36df16)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/385bde2b-4f39-4c4f-b003-da409719c55a)</br>
+
+</br>
+
 ### Lecture 8: Demo for hierarchy check script generation</br>
 ### Lecture 9: Demo for error handling concept in hierarchy check</br>
 ### Lecture 10: Error handling script for hierarchy check</br>
