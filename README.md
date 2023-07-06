@@ -377,14 +377,25 @@ Section 7: Full script for download and Conclusion</br>
 </br>
 
 ### Lecture 8: Demo for hierarchy check script generation</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/98adf403-c2aa-4d20-8fac-1ebf4fad4dc1)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/393e7e60-51ce-4192-8792-07d26f053c9c)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0be2b8c0-cb77-4d61-a3fe-c4854989b9a2)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/98adf403-c2aa-4d20-8fac-1ebf4fad4dc1)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/393e7e60-51ce-4192-8792-07d26f053c9c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0be2b8c0-cb77-4d61-a3fe-c4854989b9a2)</br>
 
 </br>
 
 ### Lecture 9: Demo for error handling concept in hierarchy check</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/23fb60e1-e8a7-4d01-b11b-6029e8997c17)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/337562b0-b108-4cc9-a29b-0e65aaf6ae7a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/77f3539a-fcda-4612-9b0d-2d571d49a9a3)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fa11fe41-c897-49cf-9f91-cd9e376713ce)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/dcbf5908-28d5-477d-8c34-5c432fc7eeae)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d5f1cb1d-d374-439b-9caf-ca4f86486014)</br>
+
+</br>
+
 ### Lecture 10: Error handling script for hierarchy check</br>
+
+
 ### Lecture 11: Demo for error handling script</br></br>
 
 ## Day 5: Advanced Scripting Techniques and Quality of Results Generation</br>
