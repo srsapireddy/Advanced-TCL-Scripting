@@ -305,37 +305,48 @@ Section 7: Full script for download and Conclusion</br>
 
 ## Lecture 29: Constraints generation logic for the output port and Conclusion!!</br>
 ### Section 8: Introduction to Yosys synthesis tool usage</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/78467c81-0b4a-4e02-bb75-8602893ddee8)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6b9dbe93-14a5-4a90-9ba8-9a7f0db6b3ca)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5b07d61c-550f-4914-a1e4-d29708ea38a1)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c3349673-60c2-4059-bb33-143613972dba)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a7b015b4-51a5-425a-9f7e-09eb9cd6a09f)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/78467c81-0b4a-4e02-bb75-8602893ddee8)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6b9dbe93-14a5-4a90-9ba8-9a7f0db6b3ca)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5b07d61c-550f-4914-a1e4-d29708ea38a1)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c3349673-60c2-4059-bb33-143613972dba)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a7b015b4-51a5-425a-9f7e-09eb9cd6a09f)</br>
 
 </br>
 
 ### Lecture 2: Example of a memory module RTL description</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/01410a6a-6fa3-4c54-b184-00c34c75672d)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2ec606ac-8454-4bd3-9fdc-623f04af8c0d)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6ed9a136-3784-4d71-8fe2-3cd35d0d0547)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e20d0af5-dec0-4865-b226-98de90f6210f)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/01410a6a-6fa3-4c54-b184-00c34c75672d)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2ec606ac-8454-4bd3-9fdc-623f04af8c0d)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6ed9a136-3784-4d71-8fe2-3cd35d0d0547)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e20d0af5-dec0-4865-b226-98de90f6210f)</br>
 
 </br>
 
 ### Lecture 3: Memory functionality and Synthesis using Yosys</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f3caa5e9-2f8f-4c49-acdd-75aa16dd2c19)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/56640722-890d-4c65-a5e2-b8dfe81ef5f6)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0ecd4d51-2b8a-49ea-95ed-7414ab3a30e1)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f3caa5e9-2f8f-4c49-acdd-75aa16dd2c19)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/56640722-890d-4c65-a5e2-b8dfe81ef5f6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0ecd4d51-2b8a-49ea-95ed-7414ab3a30e1)</br>
 
 </br>
 
 ### Lecture 4: Components and Gate level netlist description of Synthesized memory</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2d3090df-6fea-4e5e-a844-f4b299ab8a79)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/932bc847-49e2-4f47-b8d4-817592606f69)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9d9008c8-5885-4235-b331-f88c64592198)
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ffe9e780-9dda-4554-a421-f00c9f4fbff4)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2d3090df-6fea-4e5e-a844-f4b299ab8a79)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/932bc847-49e2-4f47-b8d4-817592606f69)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9d9008c8-5885-4235-b331-f88c64592198)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ffe9e780-9dda-4554-a421-f00c9f4fbff4)</br>
 
 </br>
+
 ### Lecture 5: Memory Write operation discussed in detail</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/026e5d0a-06ef-4019-aee3-1552e476af14)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ade9ac5f-9e4d-4924-ac10-300a3d6eed4c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a218fa8b-99c1-45d5-a7cb-f6d7dd209727)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2a6ca5de-feb9-4682-bc7a-bde9b55b91a6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e3e2930d-075e-4113-8df6-01c8e07c6165)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bddf2ab5-c623-4543-8621-c4d2a0458500)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6a8e27d5-12d5-4f32-b58c-789a11acc76f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7a686f94-8e86-4655-9eef-a0efe645d8ed)</br>
+
+
 ### Lecture 6: Memory Read operation and TCL scripting agenda</br>
 
 
