@@ -298,6 +298,7 @@ Section 7: Full script for download and Conclusion</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/00a3ba4c-b48f-4ce4-9df8-5893c852a3d6)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b2465726-06c2-4ec4-b57d-4537e38ce658)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/968a0f5e-8a6f-41b9-964d-de5d6d282ffd)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/911ab48f-1cab-4ebf-8d03-ca57cd6df811)</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1634080c-b72f-4d2b-a4a0-121d53e1d324)</br>
 
 </br>
