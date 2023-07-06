@@ -377,6 +377,12 @@ Section 7: Full script for download and Conclusion</br>
 </br>
 
 ### Lecture 8: Demo for hierarchy check script generation</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/98adf403-c2aa-4d20-8fac-1ebf4fad4dc1)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/393e7e60-51ce-4192-8792-07d26f053c9c)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0be2b8c0-cb77-4d61-a3fe-c4854989b9a2)
+
+</br>
+
 ### Lecture 9: Demo for error handling concept in hierarchy check</br>
 ### Lecture 10: Error handling script for hierarchy check</br>
 ### Lecture 11: Demo for error handling script</br></br>
