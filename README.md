@@ -245,6 +245,10 @@ Checking the auto-creation of the variables</br>
 </br>
 
 ### Lecture 25: Demo for grepping input ports from all Verilog and reformatting for fixed space</br>
+</br>
+
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a7ce9006-8f2a-43b8-a3c2-8a81f105c089)
+</br>
 
 ### Lecture 26: Read, split, uniquify, sort, and join input ports to remove duplication.</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2c615cdc-3c7a-4f22-a85c-da237f893254)</br>
@@ -272,10 +276,31 @@ While $i = 5.</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/90ad8ac9-1bea-4c85-a0f6-2e084dfae60a)</br>
 
 ### Lecture 28: Demo for input constraints generation and bits/bussed differentiation
+</br>
+
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4e1c80f3-88ff-41b7-85ab-cf8ab4a735ce)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f68ded97-b44b-4ce6-a09c-468a60b08c55)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1d3dcc95-4ad6-418d-9a99-29ec2ea54596)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/eef37337-e1be-4b67-bcc7-860bde79fb0a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/af0c2f27-e591-4dcc-9fe7-a0d6f67c6cc6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4965369a-e907-4d6c-b06c-2d3c3fa6092c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a2fc3cb7-6082-4e8c-bceb-b364db4f8176)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5163d9a8-15a0-4d8e-97a4-dc5fa36f5979)</br>
+</br>
+
 
 ### Day 4: Complete Scripting and Yosys Synthesis Introduction</br>
 
 Section 7: Full script for download and Conclusion</br>
+</br>
+
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fedd0c25-9f57-4ded-8403-d90985d3ca0d)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/00a3ba4c-b48f-4ce4-9df8-5893c852a3d6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/b2465726-06c2-4ec4-b57d-4537e38ce658)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/968a0f5e-8a6f-41b9-964d-de5d6d282ffd)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1634080c-b72f-4d2b-a4a0-121d53e1d324)</br>
+
+</br>
 
 Lecture 29: Constraints generation logic for the output port and Conclusion!!</br>
 Section 8: Introduction to Yosys synthesis tool usage</br>
