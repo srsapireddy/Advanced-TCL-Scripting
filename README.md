@@ -81,7 +81,8 @@ The task is to take a User Interface to take an Excel file as an input and provi
 
 Set filename [lindex $argv 0]</br>
 </br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/797f973b-a570-4ba0-a6eb-cf27ddc3f620)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2e8d57b5-8a40-4cac-baae-7728f1c04f62)</br>
+
 
 
 ### Lecture 7: Initialize variables for auto-creation variables task.</br>
