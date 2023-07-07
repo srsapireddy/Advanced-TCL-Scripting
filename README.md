@@ -437,19 +437,63 @@ Section 7: Full script for download and Conclusion</br>
 
 </br>
 
-### Section 11: World of 'Procs'</br>
+## Section 11: World of 'Procs'</br>
 
-Lecture 15: Redirect stdout proc and demo of TCL array command</br>
-Lecture 16: 'set_multi_cpu_usage' proc</br>
-Lecture 17: Demo for 'set_multi_cpu_usage' proc</br>
-Lecture 18: read_lib and read_verilog proc demo</br>
+### Lecture 15: Redirect stdout proc and demo of TCL array command</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/150296de-d3e0-4cfa-abaa-9145092534e1)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/edf7554f-a92c-44f8-8e44-13bb479efef6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6f65fde1-2f0d-446c-8993-ee6189aba4b0)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fe9d5163-67cf-445f-90f3-aaaa50dd6266)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/411c8296-618c-46db-9218-0896248c657c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9624435d-ffea-487b-b90f-201582e7337a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d4611a0d-1139-4c82-a5b2-76984f449c82)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/80be35e3-de34-4cf2-8962-b65843bdf662)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2c34150a-4d42-44f2-867e-7edad8b14486)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3727a40a-fcca-4e56-909f-fb6530196a1a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7ac0dc19-17a5-4ffc-8a7d-6056a93e5278)</br>
 
-Section 12: read_sdc proc - interpret clock generation constraints</br>
+</br>
 
-Lecture 19: Read SDC file and replace square brackets by 'null'</br>
-Lecture 20: Evaluate clock period and clock port name from processed SDC</br>
-Lecture 21: Evaluate duty cycle and create clock in opentimer format</br>
-Lecture 22: Demo to convert constraints from SDC format to opentimer format</br>
+### Lecture 16: 'set_multi_cpu_usage' proc</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/cd6f0cb8-0bf4-4ed3-b742-ffc8bab5fcba)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/adeaad63-fae9-4a61-b806-65a9105085cd)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/43d2e765-667b-4163-8a86-60eb552aca83)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8a9604bc-ad72-4be8-a347-368fe5b02b9f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e59f0eb9-a216-4495-8870-83d213a5897e)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/14350ecb-4fe3-45ec-bdc6-05fd6770d4ad)</br>
+
+</br>
+
+### Lecture 17: Demo for 'set_multi_cpu_usage' proc</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/87047c86-bcad-4a3c-aea8-e02118b6e5aa)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/22e4eb68-c900-4174-8e4c-612fbf13f07f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1ab081d0-13da-4c12-9d54-eb026fd4aa5a)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c3904063-d44a-445c-a59f-0e28ec93d75b)</br>
+
+</br>
+
+### Lecture 18: read_lib and read_verilog proc demo</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/cf497ca7-ac0a-4ff4-a4e1-887d74e7b401)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/da8435c4-dd32-49dd-8281-a2fb9df13433)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a6a5dbd9-1062-499b-ae45-792aac6ce336)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/83e82a4a-be84-4e8c-81ec-213548e49189)</br>
+
+</br>
+
+### Procs
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/49700c9e-4723-4c6d-9e86-d5f8b6cd3eae)</br>
+
+</br>
+
+## Section 12: read_sdc proc - interpret clock generation constraints</br>
+
+### Lecture 19: Read SDC file and replace square brackets by 'null'</br>
+### Lecture 20: Evaluate clock period and clock port name from processed SDC</br>
+### Lecture 21: Evaluate duty cycle and create clock in opentimer format</br>
+### Lecture 22: Demo to convert constraints from SDC format to opentimer format</br>
+
+
+
 Section 13: read_sdc proc - interpret IO delays and transition constraints</br>
 
 Lecture 23: Grep clock latency and port name from SDC file</br>
