@@ -124,7 +124,7 @@ Mapping the matrix to the matrix. Then mapping matrix variables to a CSV file.</
 
 ### Lecture 10: Variable Creation DEMO using TCL.</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/964de725-3e97-4014-a19a-85ef6eef455c)</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e0fdc80e-2b50-4cd1-973a-4d6c02af502d)</br>
+
  
 Checking the auto-creation of the variables</br>
 ![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c6170bd1-eb83-4684-bc41-9b7cd80f083b)</br>
