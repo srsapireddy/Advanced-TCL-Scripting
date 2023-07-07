@@ -394,19 +394,47 @@ Section 7: Full script for download and Conclusion</br>
 </br>
 
 ### Lecture 10: Error handling script for hierarchy check</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2dac6904-56a9-459b-b2cc-69ea917cb0a1)</br>
-![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/43938000-0bbc-4761-a01e-57f593bf118f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6032fc82-8212-4251-9501-f9644eb0afed)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3805cc9a-956e-4d5a-9b31-0a85117a98a2)</br>
+
 
 
 ### Lecture 11: Demo for error handling script</br></br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d14cb192-2682-47ef-b3cc-8bca276daf88)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/171eee6e-a554-47fd-abce-04a1b3b30ebb)</br>
+
 
 ## Day 5: Advanced Scripting Techniques and Quality of Results Generation</br>
 
 ## Section 10: Synthesis main file scripting and output file editing</br>
 
 ### Lecture 12: Synthesis script creation and demo</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/12a49def-ebb6-4885-bcfe-4a27446907e6)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d7c7a250-bde4-436f-ad7b-ac6e66ad6a84)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4e3e98e3-d028-4157-ac16-5fe1eec11330)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/67acbb8e-986d-4775-8df7-28e581c84be9)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6a76b082-3236-4df2-9a2c-faa5f6a642f6)</br>
+
+</br>
+
 ### Lecture 13: Need and script to edit Yosys output netlist</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/eb75c0ae-f12e-47df-a169-7b8b70df1b12)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8bdb9591-4538-477b-9052-ddadc84de005)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/db5de042-66a3-4920-994d-60822cd05969)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/87bd1537-5583-4193-a07c-a74248a940ac)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c1171161-3cd9-4b27-9c53-fa6792329108)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/bc15963e-3880-4926-88e9-6061040b3871)</br>
+
+</br>
+
 ### Lecture 14: Demo to edit output netlist and Introduction to 'procs'</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/015284c7-9d6e-4890-8d10-e1b421f5826f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0eb131f5-f150-47a8-a2cc-8214802fb5b5)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c2f0a5b1-35d8-4de3-afa3-0a076b5b12af)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1f41874c-5604-4255-98ed-1e778bbf40f9)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9f386c28-62e1-4e2e-a15a-ae5457e409be)</br>
+
+</br>
 
 ## Section 11: World of 'Procs'</br>
 
