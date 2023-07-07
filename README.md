@@ -486,21 +486,49 @@ Section 7: Full script for download and Conclusion</br>
 </br>
 
 ## Section 12: read_sdc proc - interpret clock generation constraints</br>
+</br>
 
 ### Lecture 19: Read SDC file and replace square brackets by 'null'</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7865e5ab-66d8-4dfc-82c8-4022ca9c7e71)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1c9ac2f1-dbe1-4210-b5b5-075f5cf72877)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e9668ba6-5b92-4c5d-90a0-7c7e1a9e8d97)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2489c0c9-40db-4ae6-bdb0-2ae56cc1c615)</br>
+
+</br>
+
 ### Lecture 20: Evaluate clock period and clock port name from processed SDC</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a594ad63-6c39-4fe3-81da-5a4d34ba1d19)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d05d1a86-150f-44db-902a-b7f73bb32c71)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/93b055c1-3bd6-44f8-81b5-d051a726956e)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3e7b2a50-df1d-43e0-989f-52e591f0451f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0359afde-4e1f-4332-9585-000358bb8a37)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ba72a64b-adf3-4eee-b64c-699978fb049d)</br>
+
+</br>
+
 ### Lecture 21: Evaluate duty cycle and create clock in opentimer format</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/906973d3-202a-40bb-83ed-c30b7739d093)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0d9585c3-ae03-40cc-ab45-1552a8dc717c)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/725e3694-8589-4788-8069-644f270d3e4f)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c89a038a-e765-4308-af84-ebd6da67192d)</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e4656c37-5f8e-406f-b1b3-babfd4046c9d)</br>
+
+</br>
+
 ### Lecture 22: Demo to convert constraints from SDC format to opentimer format</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8c676c51-a002-4cc5-8112-f92e19264d7e)</br>
 
 
 
-Section 13: read_sdc proc - interpret IO delays and transition constraints</br>
+## Section 13: read_sdc proc - interpret IO delays and transition constraints</br>
 
-Lecture 23: Grep clock latency and port name from SDC file</br>
-Lecture 24: Convert set_clock_latency SDC to opentimer format</br>
-Lecture 25: Demo to convert set_clock_latency in SDC to arrival_time in opentimer</br>
-Lecture 26: Script and demo convert transition and input delay to opentimer format</br>
-Lecture 27: Script and demo to convert output SDC constraints to opentimer format</br>
+### Lecture 23: Grep clock latency and port name from SDC file</br>
+### Lecture 24: Convert set_clock_latency SDC to opentimer format</br>
+### Lecture 25: Demo to convert set_clock_latency in SDC to arrival_time in opentimer</br>
+### Lecture 26: Script and demo convert transition and input delay to opentimer format</br>
+### Lecture 27: Script and demo to convert output SDC constraints to opentimer format</br>
+
+
 Section 14: Process bussed ports and configuration file creation</br>
 
 Lecture 28: Script to expand bussed input ports for arrival time constraints</br>
