@@ -606,9 +606,24 @@ Lecture 30: Opentimer configuration file creation</br>
 Section 15: Quality of results (QOR) generation algorithm</br>
 
 Lecture 31: Script to obtain STA runtime</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/0d02d954-88ee-464f-a7b6-7e0ba26365f8)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/573e0d59-105a-4c67-beb8-63f8d2ebdf67)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7be891ec-8633-4217-a5e5-ea8b37e8fb97)
+
+
 Lecture 32: Script to obtain WNS and FEP for reg2out violations</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c3d63752-ca7e-495a-ab13-3c37b08f7435)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e1720928-d153-498e-9ba3-a991200c3554)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6ffd3b56-eafd-458a-81f5-e86aa3793a21)
+
+
 Lecture 33: Script and demo for instance count, WNS, and FEP for setup and hold</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/227e3d8a-73a3-4dfa-af9e-b291db147893)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/dff5358d-9040-459f-909e-4d16f2533252)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/ebdd8785-6713-43d1-85e5-4d9b92f7172d)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8aeaf03b-5c21-4482-a556-e2ed8beda2d6)
+
 Lecture 34: Script and demo for report formatting</br>
-Section 16: Conclusion</br>
+
 
 Lecture 35: Conclusion and acknowledgments</br>
