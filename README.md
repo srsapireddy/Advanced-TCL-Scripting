@@ -574,8 +574,35 @@ Section 7: Full script for download and Conclusion</br>
 Section 14: Process bussed ports and configuration file creation</br>
 
 Lecture 28: Script to expand bussed input ports for arrival time constraints</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d62ad0ad-2969-4bbe-85ca-0a0414789409)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f00476e5-eb3c-4651-a33e-aba3bde161bb)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/aae67ed0-dfb6-429a-868f-84eebb4251af)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a4c66b86-4703-4c46-9035-9051cfa7fa4f)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/e38f58ae-152d-465b-bcc6-4984d9b65aa2)
+
+
 Lecture 29: Script and demo to convert all bussed constraints to bit-blasted</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/44b4484a-eafa-4e05-903b-8ace76a9cacb)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/a4647d35-353e-4a83-a70b-b94a00d51df2)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8b5f5d86-b311-44be-b857-25219eaecab3)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/edffd91c-eebe-46db-ae6f-c0651a176f00)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3d65f80c-48aa-4ced-a203-52cfc64be282)
+
+Bus port
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7e22347a-bf39-4280-9918-696a036807b2)
+
+Bit blasted port
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/07e5a1dd-994f-4a81-b579-50d5982027e5)
+
 Lecture 30: Opentimer configuration file creation</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/57fbbebf-20bf-4470-9fb3-9025837ddeeb)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5158693e-9247-4cfc-ab4f-48f941bbc199)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/93a6770f-3779-48dc-ad4b-2755e7cb7148)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d96ab7ce-5270-4f73-9f0e-f93a92028f58)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c796edce-b461-4c60-ad4d-5252c845a18d)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/6d42210b-d250-4e85-a3dd-5dc5c0ce1bf6)
+
+
 Section 15: Quality of results (QOR) generation algorithm</br>
 
 Lecture 31: Script to obtain STA runtime</br>
