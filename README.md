@@ -524,10 +524,51 @@ Section 7: Full script for download and Conclusion</br>
 ## Section 13: read_sdc proc - interpret IO delays and transition constraints</br>
 
 ### Lecture 23: Grep clock latency and port name from SDC file</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/10600492-a0dd-4bb8-89da-af6a68e2c7b2)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2a87d94a-63d6-438a-bf46-902a97bdd83f)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/39cc7394-a4ea-44c7-bde9-d2d7c712090b)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/16b6ad6f-5cc2-464b-a3cc-0ad96e77068d)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3a654781-f306-4e9d-a7e1-37090987d969)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/5bbf0f65-841d-4102-9dd7-65412ac731ba)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d6d48822-1bdb-43dd-a6e4-95e093c0d5ef)
+
+
 ### Lecture 24: Convert set_clock_latency SDC to opentimer format</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/8f37783c-9873-4601-88fa-916627dfbaa0)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2aeb23dd-93b7-4851-b26a-fd14dfb06ed8)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/d3acd158-aafc-4b1d-872d-7bb5a6782197)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f4b299e8-8e38-4002-82e5-1cfbe4037fb6)
+
 ### Lecture 25: Demo to convert set_clock_latency in SDC to arrival_time in opentimer</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/102b652c-ecdf-44b0-bd8d-657b8bec2e80)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f8171769-304d-4042-91e2-28ac2588deca)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/51881db3-03a8-49c2-bf25-4f44f1081d99)
+
+
 ### Lecture 26: Script and demo convert transition and input delay to opentimer format</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/2fad804a-0c1a-4806-8c47-a2d59ab276fb)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c2e06163-ee1e-4ef7-a634-77d1683fa2b3)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/eeeda3f2-06ae-48ba-98b7-63a793a8b37e)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c00a5ef2-0c07-40b5-a20c-b2c6179023ca)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/fa65426b-bcc1-4579-8b60-5f95c4242ae7)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1303ac2b-fc40-4a0c-a58c-ca8899d90ea9)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4e65c129-8c84-46ae-b415-392650e9edaa)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/1f9a9fc8-9cb0-4d7f-a17a-b212d9e2d9f5)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/94ec957a-0957-4df3-9cd3-5b6b7cc749ef)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/57901ed2-edcc-4a5c-ba3a-30f9cbfec96c)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/4dbad950-a7c5-47f8-93f6-a0029f1b258c)
+
 ### Lecture 27: Script and demo to convert output SDC constraints to opentimer format</br>
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/aac6458c-450a-4eaf-bc95-7190273c52ce)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/c9b743b5-c28c-4d7f-b82b-fbd211b4ca20)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f99e3cef-f5ae-4ae7-a8f2-fe934bb63bc4)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/f5fb3902-23fd-497e-8a2d-7951fd567d23)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/cd3a7a65-9968-4331-a922-3f420539b7ca)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/04bacf15-82a5-4dfd-8717-a022bd5c349f)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/7423c134-926b-4e6b-abb8-d5f2bd38bcbc)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/9e941a09-2649-4fac-9725-151c2b45443e)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/3457e03d-a02f-4b01-8ea1-6550fc9b0450)
+![image](https://github.com/srsapireddy/Advanced-TCL-Scripting/assets/32967087/abd5b9f0-1998-4998-8c90-7dfc797ff8bb)
 
 
 Section 14: Process bussed ports and configuration file creation</br>
